@@ -6,7 +6,7 @@
       </div>
       <ul class="nav navbar-nav">
         <li>
-          <router-link to="/polls-all">View Bars</router-link>
+          <router-link to="/home">View Bars</router-link>
         </li>
       </ul>
       <ul class="nav navbar-nav pull-right">

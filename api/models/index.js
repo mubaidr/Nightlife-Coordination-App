@@ -19,10 +19,16 @@ let userSchema = new mongoose.Schema({
   }
 })
 
+let barSchema = new mongoose.Schema({
+  title: String,
+  location: String,
+  going: [String]
+})
+
 let userModel = mongoose.model('User', userSchema)
+let barModel = mongoose.model('Bar', barSchema)
 
 module.exports = {
   User: userModel,
-  Poll: pollModel,
-  Vote: voteModel
+  Bar: barModel
 }

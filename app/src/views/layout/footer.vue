@@ -6,10 +6,10 @@
                     <h5>About</h5>
                     <ul>
                         <li>
-                            <a href="https://github.com/mubaidr/Voting-App#voting-app">Service</a>
+                            <a href="https://github.com/mubaidr/Nightlife-Coordination-App#voting-app">Service</a>
                         </li>
                         <li>
-                            <a href="https://github.com/mubaidr/Voting-App">Source Code</a>
+                            <a href="https://github.com/mubaidr/Nightlife-Coordination-App">Source Code</a>
                         </li>
 
                     </ul>
@@ -18,7 +18,7 @@
                     <h5>Support</h5>
                     <ul>
                         <li>
-                            <a href="https://github.com/mubaidr/Voting-App/issues">Github Issues</a>
+                            <a href="https://github.com/mubaidr/Nightlife-Coordination-App/issues">Github Issues</a>
                         </li>
                     </ul>
                 </div>
