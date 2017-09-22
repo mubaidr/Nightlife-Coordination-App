@@ -16,9 +16,9 @@ const mutations = {
     state.token = token
     session.setToken(token)
   },
-  setUserInfo(state, userInfo) {
-    state.userInfo = userInfo
-    session.setUser(userInfo)
+  setUser(state, user) {
+    state.user = user
+    session.setUser(user)
   },
   removeAuthentication(state) {
     state.token = null

@@ -4,11 +4,6 @@
       <div class="navbar-header">
         <router-link to="/home" class="navbar-brand">Our Nightlife</router-link>
       </div>
-      <ul class="nav navbar-nav">
-        <li>
-          <router-link to="/home">View Bars</router-link>
-        </li>
-      </ul>
       <ul class="nav navbar-nav pull-right">
         <template v-if="isAuthenticated">
           <li>

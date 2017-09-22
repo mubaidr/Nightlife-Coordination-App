@@ -1,3 +1,3 @@
 module.exports = {
-  url: 'https://nightlife-api-mubaidr.herokuapp.com/'
+  url: 'http://localhost:9000/'
 }
