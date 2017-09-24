@@ -107,6 +107,7 @@ router.post('/auth/login', (req, res, next) => {
   })
 })
 
+/*
 router.use('/api/*', (req, res, next) => {
   let token = req.body.token || req.query.token || req.headers['x-access-token']
 
@@ -121,5 +122,6 @@ router.use('/api/*', (req, res, next) => {
     res.sendStatus(403)
   }
 })
+*/
 
 module.exports = router
